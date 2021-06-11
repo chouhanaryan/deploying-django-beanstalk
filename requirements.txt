@@ -1,3 +1,0 @@
-﻿Django==2.1.4
-djangorestframework==3.11.2
-pytz==2019.3
